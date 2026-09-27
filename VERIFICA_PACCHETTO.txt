@@ -1,0 +1,12 @@
+VERIFICA PACCHETTO v1.5
+
+PDF: 17 pagine renderizzate e controllate visivamente
+STL: 9 su 9 chiusi, bordi non manifold = 0
+STEP: 9 file presenti
+Arduino INO: 4 file; controllo sintattico superato su tutti
+Pin levetta: D9 in tutti gli sketch
+Pin servo: D10 in tutti gli sketch che comandano il servo
+D2: non usato
+Collisioni C01/C05/C09/C10 e distributori: 0 mm3
+C11: esclusa dal pacchetto
+Pagina 6: schema ricontrollato; hub +5 V con 4 rossi + 1 libero; hub GND con 4 masse + 1 libero

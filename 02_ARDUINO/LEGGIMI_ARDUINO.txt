@@ -1,0 +1,15 @@
+FILE ARDUINO - VERSIONE 1.5
+
+1) prova_levetta/prova_levetta.ino
+   Verifica la levetta su D9 senza muovere il servo.
+
+2) calibra_braccio/calibra_braccio.ino
+   Muove il servo su D10 dal Monitor seriale e permette di misurare i quattro angoli.
+
+3) useless_box_29_comportamenti/useless_box_29_comportamenti.ino
+   Programma definitivo con 29 comportamenti e Party Mode. Richiede gli angoli misurati.
+
+4) OPZIONALE_programma_base/useless_box_compatta.ino
+   Programma semplificato alternativo. Non va caricato insieme al programma da 29 comportamenti.
+
+Tutti i file usano PIN_LEVETTA = 9. I file che comandano il servo usano PIN_ARM = 10. D2 non e usato.

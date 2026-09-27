@@ -1,0 +1,10 @@
+file,triangoli,X_mm,Y_mm,Z_mm,bordi_non_manifold,chiusa
+C01_corpo_5mm_USB_Nano_15.30x5.30.stl,4282,68.000,157.000,52.500,0,SI
+C02_coperchio_5mm_interruttore_allineato.stl,2102,68.000,157.000,7.500,0,SI
+C03_sportello.stl,904,19.500,41.900,7.000,0,SI
+C04_braccio_incastro_squadretta_D8.9.stl,2390,49.096,22.398,10.000,0,SI
+C05_staffa_servo_RINFORZATA.stl,3120,40.650,61.500,11.500,0,SI
+C06_piastra_cavo_5V_fermacavo_2_fascette.stl,664,20.000,26.200,17.000,0,SI
+C08_piedino_9x9x4.stl,12,9.000,9.000,4.000,0,SI
+C09_slitta_basetta_A_23.5x70.stl,2236,27.000,82.000,8.500,0,SI
+C10_slitta_verticale_basetta_B_RINFORZATA_V2_50x34.stl,1788,14.000,56.000,40.000,0,SI

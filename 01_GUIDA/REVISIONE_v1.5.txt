@@ -1,0 +1,22 @@
+REVISIONE 1.5 - 25 settembre 2026
+
+- C01 e C02 sostituiti con la versione larga 68 mm.
+- Foro USB-C Nano corretto a 15,30 x 5,30 mm.
+- Riferimenti del coperchio e dell interruttore riallineati.
+- C04 sostituito con il braccio D8,9 per la squadretta.
+- C05 rinforzata confermata.
+- C06 fermacavo a due fascette confermata.
+- C10 rinforzata V2 confermata.
+- Eliminata C11 per collisione con C10.
+- Due distributori da 5 poli montati sulle facce opposte della stessa basetta 50 x 34 mm.
+- Due giunti da 2 poli: D10 verde e RUN rosso.
+- Cablaggio definitivo: D9 levetta, D10 servo, D2 libero.
+- Rigenerati e verificati i quattro file Arduino.
+- Guida PDF interamente riscritta sulla configurazione finale.
+
+CORREZIONE DEL 26 SETTEMBRE 2026
+
+- Pagina 6: sostituito lo schema elettrico con i cinque morsetti di ciascun hub mostrati singolarmente.
+- Hub +5 V: quattro fili rossi (condensatore, Arduino attraverso RUN, alimentatore, servo) e una sede libera.
+- Hub GND: quattro masse (Arduino, condensatore, alimentatore, servo) e una sede libera.
+- Segnale D10 e collegamenti D9/blu della levetta separati graficamente dagli hub di alimentazione.
